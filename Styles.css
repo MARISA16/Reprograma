@@ -1,0 +1,33 @@
+h1{
+  color:red;  
+  background: black;
+  
+}
+
+h2 {
+    color: blue
+}
+
+h3 {
+    color: yellow
+}
+
+h4 {
+    color:brown
+}
+h5 {
+    color: chocolate
+}
+
+h6 {
+    color:aqua
+}
+
+.titulo {
+    color:yellow;
+    background: black;
+}
+
+
+
+
